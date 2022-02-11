@@ -1,2 +1,2 @@
 # ERGONOMIC_WEB_TECHNALOGIES
-Atayv Ismayyl 910101
+Ataeyv Ismayyl 910101
