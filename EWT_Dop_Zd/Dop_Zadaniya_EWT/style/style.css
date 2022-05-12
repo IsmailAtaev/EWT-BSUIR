@@ -2,119 +2,11 @@
     Author: Atayev I.M.
 */
 
-main img{
-    width: 100%;
-    margin-top: 70px;
+.btn4 {
+    background-color: pink;
+     color: black;
 }
 
-.textblock{
-    background-color: #fff;
-    height: 260px;
-}
-
-.block{
-    border: solid 5px;
-    border-radius: 30px;
-    height: 200px;
-    width: 600px;
-    margin: 30px 70px;
-}
-.block h3{
-    text-align: center;
-    margin: 20px;
-    font-size: 24px;
-}
-.block p{
-    margin: 20px;
-}
-.textblock{
-    display: flex;
-}
-
-.tshirt-card{
-    border: solid 5px;
-    border-radius: 30px;
-    width: 200px;
-    height: 320px;
-    background-color: #fff;
-    margin:80px 50px;
-    text-align: center;
-}
-main{
-    background-color: #fff;
-}
-.wrapper{
-    display: flex;
-}
-
-.tshirt-card img{
-    width: 200px;
-    height: auto;
-    margin-top: 3px;
-    border-radius: 30px;
-}
-
-
-
-.details{
-    margin-top: 70px;
-    height: 700px;
-}
-.details img{
-    width: 200px;
-    height: auto;
-    margin-top: 3px;
-    border-radius: 30px;
-    position: absolute;
-    left: 120px;
-    top: 260px;
-}
-
-.buttons{
-    position: absolute;
-    top: 360px;
-    left: 340px;
-}
-.cost{
-    position: absolute;
-    left: 340px;
-    top: 270px;
-}
-
-.buttons button{
-    width: 80px;
-    height: 30px;
-    border-radius: 10px;
-}
-
-.btn4{background-color: pink; color: black;}
-
-.name{
-    position: absolute;
-    top: 200px;
-    left: 150px;
-}
-
-
-.obz{
-    position: absolute;
-    top: 310px;
-    left: 350px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* header */
 .container {
     margin: 0 auto;
     display: block;
@@ -127,7 +19,6 @@ main{
     height: 20px;
     background-color: #3b45ff;
 }
-
 
 .logo_img{
     white-space: nowrap;
@@ -154,62 +45,6 @@ main{
     text-decoration: none;
 }
 
-/* section bar */
-
-.section_bar {
-    margin: 0 auto;
-    height: 400px;
-    background-color: #4c55ffcd;
-}
-
-.department_text{
-    color: white;
-    margin-left: 100px;
-    padding-bottom: 100px;
-    display: inline-block;
-}
-
-.main_img {  
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-.mainContainer {
-    margin: 0 auto;
-    width: 1400px;
-    height: 200px;
-    display: flex;
-    position: relative;
-    align-items: center;
-  }
-  
-.left1 {
-    width: 300px;
-    height: 150px;
-    border: 4px solid rgb(174, 0, 255);
-    border-radius: 5px;
-    position: relative;
-    left: 800px;
-    
-  }
-  
-.right1 {
-    width: 300px;
-    height: 150px;
-    border: 4px solid rgb(174, 0, 255);
-    position: relative;
-    border-radius: 5px;
-  }
-  
-
-/*
-    footer
-*/
-
-
-/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .square1 {
     position: relative;
     width: 300px;
@@ -217,8 +52,7 @@ main{
     border-radius: 10px;
     display: inline-block;
     margin-left: 80px;
-  }
-
+}
 
 .square2 {
     position: relative;
@@ -227,24 +61,9 @@ main{
     border-radius: 10px;
     display: inline-block;
     margin-left: 400px;
-  }
+}
 
-
-  .quickButton {
-    background-color: rgba(255, 0, 0, 0.842);
-    border-radius: 10px;
-    position: relative;
-    left: 45px;
-  }
-  
-  .see_pageButton {
-    background-color: rgba(255, 0, 0, 0.842);
-    border-radius: 10px;
-    position: relative;
-    left: 85px;
-  }
-  
-  .brow_line_footer {
+.brow_line_footer {
     margin: 0 auto;
     height: 50px;
     background-color: #4a32fe;
@@ -253,19 +72,17 @@ main{
     margin-top: 20px;
 }   
 
-
 .footer_text {
   color: white;
   margin-left: 150px;
   text-decoration: none;
 }
 
-
 .text_Area{
     font-size: 24px; 
     color: red; 
     padding-left: 20px
-  }
+}
 
 .text_small_area{
     font-size: 20px;
